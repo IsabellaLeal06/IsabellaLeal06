@@ -11,11 +11,11 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/isabella-santos-1148b02b9/">
-<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:isabellasantosleal2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -46,13 +46,19 @@ Atualmente estudo desenvolvimento web enquanto exploro formas de transformar cri
 
 <br><br>
 
----
-
 <div align="center">
+
+𓆩❀𓆪══════════════════𓆩❀𓆪
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=28&pause=4000&color=FFFFFF&center=true&vCenter=true&width=340&lines=Selected+Technologies"/>
 
+𓆩❀𓆪══════════════════𓆩❀𓆪
+
+</div>
+
 <br><br>
+
+<div align="center">
 
 <p align="center">
 
@@ -77,11 +83,46 @@ Atualmente estudo desenvolvimento web enquanto exploro formas de transformar cri
 
 <br><br>
 
----
+<div align="center">
+
+𓆩❀𓆪══════════════════𓆩❀𓆪
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=28&pause=4000&color=FFFFFF&center=true&vCenter=true&width=220&lines=Creative+Tools"/>
+
+𓆩❀𓆪══════════════════𓆩❀𓆪
+
+</div>
+
+<br><br>
 
 <div align="center">
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-000000?style=flat-square&logo=canva&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+</p>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+𓆩❀𓆪══════════════════𓆩❀𓆪
+
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=28&pause=4000&color=FFFFFF&center=true&vCenter=true&width=180&lines=Archive"/>
+
+𓆩❀𓆪══════════════════𓆩❀𓆪
 
 </div>
 
@@ -107,13 +148,19 @@ Atualmente estudo desenvolvimento web enquanto exploro formas de transformar cri
 
 <br><br>
 
----
-
 <div align="center">
+
+𓆩❀𓆪══════════════════𓆩❀𓆪
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=28&pause=4000&color=FFFFFF&center=true&vCenter=true&width=260&lines=Digital+Presence"/>
 
+𓆩❀𓆪══════════════════𓆩❀𓆪
+
+</div>
+
 <br><br>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=IsabellaLeal06&style=flat-square&label=Views&color=000000"/>
 
@@ -144,4 +191,3 @@ Atualmente estudo desenvolvimento web enquanto exploro formas de transformar cri
 <img src="assets/banner.gif" width="100%" height="200px"/>
 
 </div>
-
